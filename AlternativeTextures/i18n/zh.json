@@ -49,5 +49,18 @@
   "config.model_single.name": "变体：{{variation}}",
   "config.model_single.description": "类型：{{textureType}}\n季节：{{season}}",
   "config.widget.enabled.name": "启用",
-  "config.widget.enabled.description": "勾选后可使用此替换材质"
+  "config.widget.enabled.description": "勾选后可使用此替换材质",
+  "ui.labels.catalogue.filter.none": "不筛选",
+  "ui.labels.catalogue.filter.author": "作者",
+  "ui.labels.catalogue.filter.pack_name": "贴图包名称",
+  "ui.labels.catalogue.filter.tags": "标签",
+  "ui.labels.catalogue.filter": "筛选",
+  "ui.labels.catalogue.display_name": "显示名称：{{name}}",
+  "ui.labels.catalogue.texture_info": "贴图包：{{packName}}\n作者：{{author}}{{displayName}}\n变体：{{variation}}\n标签：{{keywords}}",
+  "ui.labels.texture_name_hint": "将鼠标移到物品上可查看贴图名称！",
+  "ui.labels.spray_can.radius": "半径",
+  "ui.labels.spray_can.quick_select": "  ---\n快捷\n选择",
+  "ui.labels.spray_can.all": "全选",
+  "ui.labels.spray_can.none": "全不选",
+  "ui.labels.spray_can.selected_textures": "已选\n贴图"
 }
